@@ -1,0 +1,17 @@
+export const DATA = [
+  { id: 1, firstName: 'John', lastName: 'Doe' },
+  { id: 2, firstName: 'Jane', lastName: 'Smith' },
+  { id: 3, firstName: 'Michael', lastName: 'Johnson' },
+  { id: 4, firstName: 'Emily', lastName: 'Williams' },
+  { id: 5, firstName: 'David', lastName: 'Brown' },
+  { id: 6, firstName: 'Olivia', lastName: 'Jones' },
+  { id: 7, firstName: 'Daniel', lastName: 'Taylor' },
+  { id: 8, firstName: 'Sophia', lastName: 'Anderson' },
+  { id: 9, firstName: 'Matthew', lastName: 'Thomas' },
+  { id: 10, firstName: 'Ava', lastName: 'Martinez' },
+  { id: 11, firstName: 'Andrew', lastName: 'Hernandez' },
+  { id: 12, firstName: 'Emma', lastName: 'Lopez' },
+  { id: 13, firstName: 'William', lastName: 'Gonzalez' },
+  { id: 14, firstName: 'Mia', lastName: 'Wilson' },
+  { id: 15, firstName: 'James', lastName: 'Moore' },
+];
